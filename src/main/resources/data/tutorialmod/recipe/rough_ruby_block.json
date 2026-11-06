@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "RRR",
+    "RRR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "tutorialmod:rough_ruby"
+    }
+  },
+  "result": {
+    "id": "tutorialmod:rough_ruby_block",
+    "count": 1
+  }
+}

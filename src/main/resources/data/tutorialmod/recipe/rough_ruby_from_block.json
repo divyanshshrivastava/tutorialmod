@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tutorialmod:rough_ruby_block"
+    }
+  ],
+  "result": {
+    "id": "tutorialmod:rough_ruby",
+    "count": 9
+  }
+}
