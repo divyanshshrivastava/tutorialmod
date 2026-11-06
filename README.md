@@ -65,7 +65,7 @@ A custom Minecraft mod built using **Java, Fabric, and Gradle**, introducing new
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/tutorialmod.git
+   git clone https://github.com/divyanshshrivastava/tutorialmod.git
    ```
 
 2. Navigate to the project directory:
