@@ -68,13 +68,7 @@ A custom Minecraft mod built using **Java, Fabric, and Gradle**, introducing new
    git clone https://github.com/divyanshshrivastava/tutorialmod.git
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd tutorialmod
-   ```
-
-3. Build the mod:
+2. Build the mod:
 
    **Windows:**
    ```bash
@@ -86,7 +80,7 @@ A custom Minecraft mod built using **Java, Fabric, and Gradle**, introducing new
    ./gradlew build
    ```
 
-4. Find the generated JAR file in:
+3. Find the generated JAR file in:
 
    ```text
    build/libs/
